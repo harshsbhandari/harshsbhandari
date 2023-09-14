@@ -2,7 +2,6 @@
 <h3 align="center">I am self taught programmer, trying to explore the depths of technologies.</h3>
 
 
-- 🔭 I’m currently working on a **Frontend Project.**
 
 - 🌱 I’m currently learning **MERN stack.**
 
