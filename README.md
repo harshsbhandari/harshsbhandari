@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am self taught programmer, trying to explore the depths of technologies.</h3>
 
+- Currently I am working as a backend developer in Oracle Financial Software Services.
 
-
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 In my free time , I like to solve problems and learn **MERN stack.**
 
 - 📫 How to reach me **harshsbhandari@gmail.com**
 
